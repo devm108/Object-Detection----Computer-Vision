@@ -30,7 +30,7 @@ print ("train_set_x shape: " + str(train_set_x_orig.shape))
 print ("train_set_y shape: " + str(train_set_y.shape))
 print ("test_set_x shape: " + str(test_set_x_orig.shape))
 print ("test_set_y shape: " + str(test_set_y.shape))
-
+##
 # Reshape the training and test examples
 
 ### START CODE HERE ### (≈ 2 lines of code)
